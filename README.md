@@ -1,7 +1,7 @@
 # VersusFaxi.github.io
 CTI 110 Repository
 Kevin Cruz-Angeles
-Kcangeles@my.waketech.edu
+Kevinelgallo13@gmail.com
 Description:
 Step 1: Download Github Desktop from desktop.github.com and install it on your computer. Once the installation is complete, open the program.
 Step 2: Log in to Github Desktop using your Github account. If you are not already logged in, you will be prompted to do so when you open the program.
